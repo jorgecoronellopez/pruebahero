@@ -7,7 +7,7 @@
   <body>
     <?php 
     echo "Este mensaje esta hecho en php";
-    echo "Prueba 2";
+    echo " Prueba 2";
      ?>
   </body>
 </html>
